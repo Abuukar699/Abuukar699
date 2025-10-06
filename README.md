@@ -2,13 +2,13 @@
 <h3 align="left">💻 I'm a Software Developer & Fullstack Engineer</h3>
 
 <p align="left">
-  <a href="https://github.com/Mohammed-Abuukar">
+  <a href="https://github.com/Abuukar699">
     <img src="https://komarev.com/ghpvc/?username=Mohammed-Abuukar" alt="page views" />
   </a>
-  <a href="https://mohammedabuukar.com">
+  <a href="https://www.facebook.com/maxamed.abukarxusen">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmohammedabuukar.com">
   </a>
-  <a href="https://www.linkedin.com/in/mohammedabuukarhussein">
+  <a href="https://www.linkedin.com/in/mohammed-hussein-17b39a370/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
   <a href="https://www.facebook.com/mohammedabuukarhussein">
